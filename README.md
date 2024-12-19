@@ -1,4 +1,4 @@
-# Competitive Progamming
+# Competitive Programming
 
 This repository has many solutions to different problems from the Competitive Programming Workshop subjects.
 
